@@ -1,0 +1,120 @@
+{
+  "product": {
+    "title": "Allen Solly Regular Casual Shirt",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600&auto=format&fit=crop&q=80",
+    "store": "Amazon",
+    "price": "₹999",
+    "original_rating": 4.2,
+    "url": "https://www.amazon.in/Allen-Solly-Regular-Casual-Shirt/dp/B08N5W1234"
+  },
+  "genuineness_score": 66.7,
+  "trust_grade": "C",
+  "original_rating": 4.2,
+  "adjusted_rating": 4.2,
+  "fake_review_count": 2,
+  "genuine_review_count": 4,
+  "total_reviews_analyzed": 6,
+  "red_flags": [
+    "Detected 2 suspicious reviews posted by unverified purchasers.",
+    "Temporal anomaly: High concentration of extreme reviews submitted in a single short timeframe.",
+    "Repetitive high-frequency superlatives ('AMAZING', 'MUST BUY', '10/10') detected across unverified accounts."
+  ],
+  "rating_distribution": {
+    "original": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 3
+    },
+    "adjusted": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 1
+    }
+  },
+  "reviews": [
+    {
+      "reviewer_name": "Rahul Verma",
+      "rating": 4,
+      "text": "100% breathable cotton fabric. Fits well around chest and shoulders. Color didn't bleed after machine wash.",
+      "date": "2026-07-28",
+      "is_verified": true,
+      "suspicion_score": 24.5,
+      "verdict": "Genuine",
+      "highlighted_phrases": [],
+      "reasoning": "Analyzed as genuine. Text exhibits detailed contextual description, natural syntax variation, and moderate emotional tone. Suspicion score: 24.5/100."
+    },
+    {
+      "reviewer_name": "Praveen Kumar",
+      "rating": 4,
+      "text": "Good casual shirt for office and weekend wear. Button stitching is firm. Sleeves are comfortable.",
+      "date": "2026-07-25",
+      "is_verified": true,
+      "suspicion_score": 23.7,
+      "verdict": "Genuine",
+      "highlighted_phrases": [],
+      "reasoning": "Analyzed as genuine. Text exhibits detailed contextual description, natural syntax variation, and moderate emotional tone. Suspicion score: 23.7/100."
+    },
+    {
+      "reviewer_name": "Karthik Raja",
+      "rating": 4,
+      "text": "Fabric is light and comfortable for summer heat. Medium size fits well as a slim fit.",
+      "date": "2026-07-15",
+      "is_verified": true,
+      "suspicion_score": 23.5,
+      "verdict": "Genuine",
+      "highlighted_phrases": [],
+      "reasoning": "Analyzed as genuine. Text exhibits detailed contextual description, natural syntax variation, and moderate emotional tone. Suspicion score: 23.5/100."
+    },
+    {
+      "reviewer_name": "Siddharth Nair",
+      "rating": 5,
+      "text": "High quality fabric texture and clean stitch finishing. Definitely genuine brand product.",
+      "date": "2026-07-18",
+      "is_verified": true,
+      "suspicion_score": 27.0,
+      "verdict": "Genuine",
+      "highlighted_phrases": [],
+      "reasoning": "Analyzed as genuine with low suspicion index (27.0/100). No manipulative keywords or artificial hype signals detected."
+    },
+    {
+      "reviewer_name": "ShirtSpammer_01",
+      "rating": 5,
+      "text": "AMAZING SHIRT BEST EVER BUY NOW WOW FIVE STARS HIGHLY RECOMMENDED MUST HAVE PERFECT QUALITY!!!",
+      "date": "2026-07-30",
+      "is_verified": false,
+      "suspicion_score": 100.0,
+      "verdict": "Suspicious",
+      "highlighted_phrases": [
+        "FIVE",
+        "STARS",
+        "HAVE",
+        "WOW",
+        "SHIRT",
+        "NOW"
+      ],
+      "reasoning": "Flagged as suspicious due to: Excessive UPPERCASE characters (81% of text); Excessive punctuation marks (3 '!' or '?'); Repetitive extreme superlatives (AMAZING, BEST, PERFECT). Model confidence is high with a suspicion index of 100.0/100."
+    },
+    {
+      "reviewer_name": "FashionBot_X",
+      "rating": 5,
+      "text": "WORLD CLASS CLOTHING 1000 STARS BEST SHIRT IN THE UNIVERSE DO NOT THINK JUST BUY MIRACULOUS!",
+      "date": "2026-07-30",
+      "is_verified": false,
+      "suspicion_score": 92.3,
+      "verdict": "Suspicious",
+      "highlighted_phrases": [
+        "THINK",
+        "WORLD CLASS",
+        "STARS",
+        "UNIVERSE",
+        "WORLD",
+        "CLASS"
+      ],
+      "reasoning": "Flagged as suspicious due to: Excessive UPPERCASE characters (78% of text); Repetitive extreme superlatives (WORLD CLASS, BEST, 1000 STARS, MIRACULOUS). Model confidence is high with a suspicion index of 92.3/100."
+    }
+  ]
+}
